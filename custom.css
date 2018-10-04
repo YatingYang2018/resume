@@ -1,0 +1,225 @@
+
+body{
+  background-color: white;
+}
+
+.background {
+  background-color:white;
+}
+
+.my-container {
+  background-color: White;
+  display: flex;
+  justify-content: center;
+}
+
+#profile-pic{
+  width: 400px;
+  height: 350px;
+}
+
+.inner-container {
+  margin: auto;;
+}
+
+div {
+  padding: 10px;
+}
+
+#unique {
+  color: blue;
+}
+
+#title-hello {
+  font-size: 16px;
+  color: green;
+  text-align: center;
+}
+
+#my-name {
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  margin-top: 50px;
+  font-size: 50px;
+  color:Black;
+}
+
+.my-button{
+  /* margin: 50px; */
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family: 'Indie Flower', cursive;
+}
+
+
+.Education-Section{
+  background-color: white;
+  text-align:center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+.Organizations{
+display:flex;
+width:800px;
+height:600px;
+padding:20px;
+margin:100px auto;
+border: 10px solid pink;
+background-image: url(pic.jpg);
+
+font-family: 'Indie Flower', cursive;
+font-size: 16px;
+}
+
+.Organizations div{
+  border:1px ;
+  padding:10px
+}
+
+.org-1{
+  flex:1
+
+}
+
+.org-2{
+  flex:1
+}
+
+.org-3{
+  flex:1
+}
+
+.Profesional-Experience{
+  font-family: 'Indie Flower', cursive;
+  font-size: 15px;
+  color: white;
+  text-align: center
+}
+
+.Profesional-Experience{
+background-color: black
+}
+
+
+.Depauw-Pictures{
+display:flex;
+}
+
+.Depauw-Pictures div{
+  border:1px #ccc solid;
+  padding:45px;
+
+}
+
+.DPU-1{
+  flex:1
+}
+
+.DPU-1{
+  background-color: black;
+}
+
+.DPU-1:hover{
+  background-color: yellow;
+}
+
+.DPU-2{
+  flex:1
+}
+
+
+.DPU-2{
+  background-color: pink;
+}
+
+.DPU-2:hover{
+ background-color: pink;
+}
+
+.DPU-3{
+  flex:1
+}
+
+.DPU-3:hover{
+  background-color: blue;
+}
+
+.wrapper{
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.video-size{
+ position:relative;
+ padding-bottom: 56.25%
+ padding-top:25px;
+ height:0px
+}
+
+
+
+.contact{
+  margin: 150px;
+  font-family: 'Indie Flower', cursive;
+  color: black;
+}
+
+.contact{
+  color: yellow
+  font-size: 100px
+}
+
+#Ytpicture{
+width: 300px;
+
+}
+
+.cutepicture{
+  display: flex;
+  justify-content: center;
+
+}
+
+
+.image{
+  border-radius: 50px;
+}
+
+
+.item{
+  width:50px;
+  height: 100px;
+
+}
+
+#green-pic{
+  width: 200px;
+  height: 150px;
+}
+
+#pic1{
+  width:200px;
+  height:170px;
+}
+
+#move-pic{
+   width:150px;
+   height:150px;
+   color:white
+}
+
+.wrapper{
+  display: flex;
+  justify-content: center;
+}
+
+.likemusic{
+  display: flex;
+  justify-content: center;
+
+}
+
+.contact{
+  color: pink
+}
